@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed'   => 'Bu kullanıcı bilgileri, bizim verilerle eşleşmiyor.',
-    'throttle' => 'Çok fazla oturum açma girişimleri. :seconds saniye içinde tekrar deneyin.',
+    'failed'    => 'Bu kimlik bilgileri bizim kayıtlarımız ile eşleşmiyor.',
+    'throttle'  => 'Çok sayıda hatalı oturum açma girişiminde bulundunuz. Lütfen :seconds saniye sonra tekrar deneyiniz.',
 
 ];

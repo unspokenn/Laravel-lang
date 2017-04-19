@@ -4,7 +4,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Password Reminder Language Lines
+    | Password Reset Language Lines
     |--------------------------------------------------------------------------
     |
     | The following language lines are the default lines which match reasons
@@ -13,10 +13,10 @@ return [
     |
     */
 
-    'password' => 'Şifreler altı karakter olmalı ve onay ile eşleşmelidir.',
-    'reset'    => 'Şifre sıfırlandı!',
-    'sent'     => 'Şifre sıfırlama başarı ile gönderildi!',
-    'token'    => 'Şifre sıfırlama bileti geçersiz.',
-    'user'     => 'Bu e-mail adresi ile kayıtlı üye bulunamıyor.',
+    'password'  => 'Parolalar en az altı karakter olmalı ve onay ile eşleşmelidir.',
+    'reset'     => 'Parolanız başarıyla sıfırlandı!',
+    'sent'      => 'Parola sıfırlama bileti e-posta ile gönderildi!',
+    'token'     => 'Parola sıfırlama bileti geçersiz.',
+    'user'      => 'Bu e-posta adresi ile kayıtlı bir üye bulunmuyor.',
 
 ];
